@@ -10,4 +10,4 @@
 
 This is a custom keymap with the following layout:
 
-<img src="replace" width="800">
+<img src="/laikalayout.png" width="800">
